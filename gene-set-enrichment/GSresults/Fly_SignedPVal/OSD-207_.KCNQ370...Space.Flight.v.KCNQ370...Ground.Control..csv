@@ -1,0 +1,150 @@
+"","pathway","pval","padj","HMDPval","NES","size"
+"1","Mitochondrial central dogma_Mitochondrial<a0>central<a0>dogma",0.00305518426580103,0.106526739505463,0.00315896524420238,1.72208071161887,37
+"2","mtDNA maintenance_Mitochondrial<a0>central<a0>dogma > mtDNA<a0>maintenance",0.879033854682241,0.921540005473953,0.999999999999829,-0.675647180592706,2
+"3","mtDNA replication_Mitochondrial<a0>central<a0>dogma > mtDNA<a0>maintenance > mtDNA<a0>replication",0.866271018793274,0.921540005473953,0.999999999999731,-0.750808863636518,1
+"4","mtDNA nucleoid_Mitochondrial<a0>central<a0>dogma > mtDNA<a0>maintenance > mtDNA<a0>nucleoid",0.93127147766323,0.947467503361721,0.999999999999972,0.713498429662931,1
+"5","mtDNA repair_Mitochondrial<a0>central<a0>dogma > mtDNA<a0>maintenance > mtDNA<a0>repair",1,1,0.999999999999997,0,NA
+"6","mtDNA modifications_Mitochondrial<a0>central<a0>dogma > mtDNA<a0>maintenance > mtDNA<a0>modifications",1,1,0.999999999999997,0,NA
+"7","mtDNA stability and decay_Mitochondrial<a0>central<a0>dogma > mtDNA<a0>maintenance > mtDNA<a0>stability<a0>and<a0>decay",1,1,0.999999999999997,0,NA
+"8","mtRNA metabolism_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism",0.00364193981215258,0.106526739505463,0.00378775002947469,1.7002710208698,21
+"9","Transcription_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism > Transcription",0.988680008085709,0.988680008085709,0.999999999999996,0.676342196561107,1
+"10","mtRNA granules_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism > mtRNA<a0>granules",0.528776978417266,0.888148571712702,0.999999642352654,0.979582693166894,5
+"11","Polycistronic mtRNA processing_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism > Polycistronic<a0>mtRNA<a0>processing",1,1,0.999999999999997,0,NA
+"12","mt-tRNA modifications_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism > mt-tRNA<a0>modifications",0.194781915952997,0.645708283313325,0.765918885605253,1.27881726135509,9
+"13","mt-rRNA modifications_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism > mt-rRNA<a0>modifications",0.083713548899028,0.487445447737426,0.178581469899564,1.42942350922043,8
+"14","mt-mRNA modifications_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism > mt-mRNA<a0>modifications",0.122294814209882,0.550326663944467,0.355156636726692,1.33233224415823,3
+"15","mtRNA stability and decay_Mitochondrial<a0>central<a0>dogma > mtRNA<a0>metabolism > mtRNA<a0>stability<a0>and<a0>decay",0.240976003226457,0.704854809437387,0.924905428021678,1.23284567531824,4
+"16","Translation_Mitochondrial<a0>central<a0>dogma > Translation",0.602241979126401,0.921540005473953,0.99999998787688,0.90263495632974,19
+"17","Mitochondrial ribosome_Mitochondrial<a0>central<a0>dogma > Translation > Mitochondrial<a0>ribosome",0.554143980641258,0.888148571712702,0.999999890351518,0.969295596064176,4
+"18","Mitochondrial ribosome assembly_Mitochondrial<a0>central<a0>dogma > Translation > Mitochondrial<a0>ribosome<a0>assembly",0.876509004551751,0.921540005473953,0.999999999999813,0.65432554924975,10
+"19","Translation factors_Mitochondrial<a0>central<a0>dogma > Translation > Translation<a0>factors",0.460109068874975,0.882504279645443,0.999990908173284,1.05345459861936,2
+"20","mt-tRNA synthetases_Mitochondrial<a0>central<a0>dogma > Translation > mt-tRNA<a0>synthetases",1,1,0.999999999999997,0,NA
+"21","fMet processing_Mitochondrial<a0>central<a0>dogma > Translation > fMet<a0>processing",0.738081107814045,0.921540005473953,0.999999999964346,-0.842076913573985,1
+"22","Protein import, sorting and homeostasis_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis",0.837588788635055,0.921540005473953,0.999999999999239,0.757814182195745,30
+"23","Protein import and sorting_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting",0.44600454263886,0.872793375075742,0.999982340147237,-1.00656129262516,18
+"24","TOM_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > TOM",1,1,0.999999999999997,0,NA
+"25","SAM_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > SAM",0.64615987460815,0.921540005473953,0.999999998280774,-0.898077652453286,3
+"26","MIA40_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > MIA40",0.447586346192688,0.872793375075742,0.999983605304506,1.06113299610268,2
+"27","TIM22 carrier pathway_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > TIM22<a0>carrier<a0>pathway",0.491415875580691,0.884548576045243,0.999997925829896,1.03435297753713,2
+"28","TIM23 presequence pathway_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > TIM23<a0>presequence<a0>pathway",0.863957954315747,0.921540005473953,0.999999999999708,0.755098597620787,1
+"29","Import motor_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > Import<a0>motor",0.874084339734706,0.921540005473953,0.999999999999797,-0.68152005217431,2
+"30","OXA_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > OXA",0.742065898524358,0.921540005473953,0.999999999969651,0.837187949822491,1
+"31","Preprotein cleavage_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>import<a0>and<a0>sorting > Preprotein<a0>cleavage",0.0948379351740696,0.487445447737426,0.222447157751204,-1.39406604470837,5
+"32","Protein homeostasis_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>homeostasis",0.792207792207792,0.921540005473953,0.999999999995796,0.76722832494532,18
+"33","Proteases_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>homeostasis > Proteases",0.432242521582012,0.872793375075742,0.999966341717153,-1.03290938376357,9
+"34","Chaperones_Protein<a0>import,<a0>sorting<a0>and<a0>homeostasis > Protein<a0>homeostasis > Chaperones",0.870916334661355,0.921540005473953,0.999999999999772,0.641526562210095,7
+"35","OXPHOS_OXPHOS",0.133089658138035,0.556124642933931,0.415480047862354,-1.23672690502592,63
+"36","OXPHOS subunits_OXPHOS > OXPHOS<a0>subunits",0.0663168940188877,0.487445447737426,0.121366112060516,-1.40578101917099,39
+"37","OXPHOS assembly factors_OXPHOS > OXPHOS<a0>assembly<a0>factors",0.715734989648033,0.921540005473953,0.999999999911049,-0.82484435973594,24
+"38","Complex I_OXPHOS > Complex<a0>I",0.0298223350253807,0.387690355329949,0.0393830852631947,-1.52171578932881,41
+"39","CI subunits_OXPHOS > Complex<a0>I > CI<a0>subunits",0.0121009805967035,0.20225924711633,0.0136288644324449,-1.69592723850139,30
+"40","CI assembly factors_OXPHOS > Complex<a0>I > CI<a0>assembly<a0>factors",0.817030835205228,0.921540005473953,0.999999999998365,-0.719883758238654,11
+"41","Complex II_OXPHOS > Complex<a0>II",0.0799841615521679,0.487445447737426,0.165174510682899,-1.32740245179661,2
+"42","CII subunits_OXPHOS > Complex<a0>II > CII<a0>subunits",1,1,0.999999999999997,0,NA
+"43","CII assembly factors_OXPHOS > Complex<a0>II > CII<a0>assembly<a0>factors",0.0799841615521679,0.487445447737426,0.165174510682899,-1.32740245179661,2
+"44","Complex III_OXPHOS > Complex<a0>III",0.276841692789969,0.749521531100478,0.975966620320786,-1.19861139193025,3
+"45","CIII subunits_OXPHOS > Complex<a0>III > CIII<a0>subunits",0.0958226093842803,0.487445447737426,0.226612631706049,-1.31191942671784,2
+"46","CIII assembly factors_OXPHOS > Complex<a0>III > CIII<a0>assembly<a0>factors",0.486053412462908,0.884548576045243,0.999997328285052,-1.01317375651606,1
+"47","Complex IV_OXPHOS > Complex<a0>IV",0.395239032067677,0.872508806639965,0.999814004879268,1.05773240722193,13
+"48","CIV subunits_OXPHOS > Complex<a0>IV > CIV<a0>subunits",0.627298161470823,0.921540005473953,0.999999996051552,0.886766459544821,5
+"49","CIV assembly factors_OXPHOS > Complex<a0>IV > CIV<a0>assembly<a0>factors",0.186272564967268,0.640996767681483,0.723610239726032,1.28795432706251,8
+"50","Complex V_OXPHOS > Complex<a0>V",0.224238757814075,0.672716273442226,0.881377328393279,1.24955635964584,4
+"51","CV subunits_OXPHOS > Complex<a0>V > CV<a0>subunits",0.351444152696425,0.822379317309634,0.998704316593159,1.12712962794348,2
+"52","CV assembly factors_OXPHOS > Complex<a0>V > CV<a0>assembly<a0>factors",0.26661280549384,0.742707101018553,0.966039524669898,1.18482871374243,2
+"53","Respirasome assembly_OXPHOS > Respirasome<a0>assembly",0.890034364261168,0.921540005473953,0.999999999999884,0.739544825624674,1
+"54","Cytochrome C_OXPHOS > Cytochrome<a0>C",1,1,0.999999999999997,0,NA
+"55","Metabolism_Metabolism",0.158460546119114,0.617996129864545,0.56611109580007,-1.2065931823616,63
+"56","Carbohydrate metabolism_Metabolism > Carbohydrate<a0>metabolism",0.252529423910799,0.720632746282036,0.946772587114908,-1.18166425184262,18
+"57","Gluconeogenesis_Metabolism > Carbohydrate<a0>metabolism > Gluconeogenesis",0.336761443839484,0.804103855698359,0.997589748570461,1.15579093644177,4
+"58","Malate-aspartate shuttle_Metabolism > Carbohydrate<a0>metabolism > Malate-aspartate<a0>shuttle",0.538674579624135,0.888148571712702,0.999999774827335,-0.979470999531061,1
+"59","Glycerol phosphate shuttle_Metabolism > Carbohydrate<a0>metabolism > Glycerol<a0>phosphate<a0>shuttle",1,1,0.999999999999997,0,NA
+"60","Pyruvate metabolism_Metabolism > Carbohydrate<a0>metabolism > Pyruvate<a0>metabolism",0.634777376654633,0.921540005473953,0.999999997164415,0.870678109515701,6
+"61","TCA cycle_Metabolism > Carbohydrate<a0>metabolism > TCA<a0>cycle",0.0955780289510212,0.487445447737426,0.225573681727654,-1.37775010133571,4
+"62","TCA-associated_Metabolism > Carbohydrate<a0>metabolism > TCA-associated",0.795463669209153,0.921540005473953,0.99999999999629,-0.723688499087026,7
+"63","Itaconate metabolism_Metabolism > Carbohydrate<a0>metabolism > Itaconate<a0>metabolism",0.410349706893066,0.872793375075742,0.999906949280478,1.06061911897299,1
+"64","Ketone metabolism_Metabolism > Carbohydrate<a0>metabolism > Ketone<a0>metabolism",0.633515261774813,0.921540005473953,0.999999997001863,0.909525333867902,1
+"65","Propanoate metabolism_Metabolism > Carbohydrate<a0>metabolism > Propanoate<a0>metabolism",1,1,0.999999999999997,0,NA
+"66","Lipid metabolism_Metabolism > Lipid<a0>metabolism",0.986551392891451,0.988680008085709,0.999999999999995,0.547970056276515,26
+"67","Fatty acid oxidation_Metabolism > Lipid<a0>metabolism > Fatty<a0>acid<a0>oxidation",0.472121941436021,0.884548576045243,0.999994841875244,1.02719718812247,6
+"68","Type II fatty acid synthesis_Metabolism > Lipid<a0>metabolism > Type<a0>II<a0>fatty<a0>acid<a0>synthesis",0.783503134796238,0.921540005473953,0.999999999994114,-0.74935551813276,3
+"69","Lipoate insertion_Metabolism > Lipid<a0>metabolism > Lipoate<a0>insertion",0.295293880024238,0.751073564409474,0.987598654430841,1.16536271703282,2
+"70","Cardiolipin synthesis_Metabolism > Lipid<a0>metabolism > Cardiolipin<a0>synthesis",0.78467868338558,0.921540005473953,0.999999999994377,-0.747222228670856,3
+"71","Cholesterol, bile acid, steroid synthesis_Metabolism > Lipid<a0>metabolism > Cholesterol,<a0>bile<a0>acid,<a0>steroid<a0>synthesis",0.317507418397626,0.773924332344214,0.994721564486639,-1.12129318494602,1
+"72","Cholesterol-associated_Metabolism > Lipid<a0>metabolism > Cholesterol-associated",1,1,0.999999999999997,0,NA
+"73","Phospholipid metabolism_Metabolism > Lipid<a0>metabolism > Phospholipid<a0>metabolism",0.808172981551279,0.921540005473953,0.999999999997715,0.715846419312444,8
+"74","Eicosanoid metabolism_Metabolism > Lipid<a0>metabolism > Eicosanoid<a0>metabolism",1,1,0.999999999999997,0,NA
+"75","Amino acid metabolism_Metabolism > Amino<a0>acid<a0>metabolism",0.693009118541033,0.921540005473953,0.99999999977035,0.850620738970799,31
+"76","Branched-chain amino acid metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Branched-chain<a0>amino<a0>acid<a0>metabolism",0.0902598690735965,0.487445447737426,0.203685749997063,1.4198592376391,8
+"77","Branched-chain amino acid dehydrogenase complex_Metabolism > Amino<a0>acid<a0>metabolism > Branched-chain<a0>amino<a0>acid<a0>dehydrogenase<a0>complex",0.519191506737444,0.888148571712702,0.999999439367146,1.00766343973425,3
+"78","Lysine metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Lysine<a0>metabolism",0.0364832535885167,0.425368612401535,0.051130579488211,-1.52218936351994,6
+"79","Serine metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Serine<a0>metabolism",1,1,0.999999999999997,0,NA
+"80","Glycine metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Glycine<a0>metabolism",0.384600313479624,0.865350705329154,0.999698916410919,-1.11645423048459,3
+"81","Glycine cleavage system_Metabolism > Amino<a0>acid<a0>metabolism > Glycine<a0>cleavage<a0>system",0.384600313479624,0.865350705329154,0.999698916410919,-1.11645423048459,3
+"82","Glutamate metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Glutamate<a0>metabolism",0.440634796238245,0.872793375075742,0.999977277512282,-1.06982997327549,3
+"83","Proline metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Proline<a0>metabolism",1,1,0.999999999999997,0,NA
+"84","Glyoxylate metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Glyoxylate<a0>metabolism",0.914291489791793,0.938351792154735,0.99999999999995,0.724484824168121,1
+"85","GABA metabolism_Metabolism > Amino<a0>acid<a0>metabolism > GABA<a0>metabolism",1,1,0.999999999999997,0,NA
+"86","Catechol metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Catechol<a0>metabolism",0.218301435406699,0.672716273442226,0.862180337469523,-1.25231928639879,6
+"87","Kynurenine metabolism_Metabolism > Amino<a0>acid<a0>metabolism > Kynurenine<a0>metabolism",1,1,0.999999999999997,0,NA
+"88","Urea cycle_Metabolism > Amino<a0>acid<a0>metabolism > Urea<a0>cycle",0.818145483613109,0.921540005473953,0.999999999998432,0.695840056168274,5
+"89","Nucleotide metabolism_Metabolism > Nucleotide<a0>metabolism",0.221213954426296,0.672716273442226,0.871853345877316,1.25234621030104,4
+"90","Nucleotide import_Metabolism > Nucleotide<a0>metabolism > Nucleotide<a0>import",1,1,0.999999999999997,0,NA
+"91","Nucleotide synthesis and processing_Metabolism > Nucleotide<a0>metabolism > Nucleotide<a0>synthesis<a0>and<a0>processing",0.131488588164007,0.556124642933931,0.406311117544053,1.29169364074512,2
+"92","Creatine metabolism_Metabolism > Nucleotide<a0>metabolism > Creatine<a0>metabolism",0.31069334950475,0.773428125362889,0.993098112045684,1.12258732168766,1
+"93","Metals and cofactors_Metabolism > Metals<a0>and<a0>cofactors",0.534459589172586,0.888148571712702,0.999999725841727,0.950094587846774,29
+"94","Carnitine synthesis and transport_Metabolism > Metals<a0>and<a0>cofactors > Carnitine<a0>synthesis<a0>and<a0>transport",0.0399919208240759,0.425368612401535,0.0578325530662732,1.38218410745457,2
+"95","Carnitine shuttle_Metabolism > Metals<a0>and<a0>cofactors > Carnitine<a0>shuttle",0.728522336769759,0.921540005473953,0.999999999947402,0.847063360613673,1
+"96","Coenzyme A metabolism_Metabolism > Metals<a0>and<a0>cofactors > Coenzyme<a0>A<a0>metabolism",0.141486320947325,0.570824122442658,0.464533274962391,1.31249891531459,3
+"97","Coenzyme Q metabolism_Metabolism > Metals<a0>and<a0>cofactors > Coenzyme<a0>Q<a0>metabolism",0.883970082878512,0.921540005473953,0.999999999999857,0.743001219401588,1
+"98","Copper metabolism_Metabolism > Metals<a0>and<a0>cofactors > Copper<a0>metabolism",0.445118253486962,0.872793375075742,0.999981589364277,1.03654780516949,1
+"99","Iron homeostasis_Metabolism > Metals<a0>and<a0>cofactors > Iron<a0>homeostasis",1,1,0.999999999999997,0,NA
+"100","Heme synthesis and processing_Metabolism > Metals<a0>and<a0>cofactors > Heme<a0>synthesis<a0>and<a0>processing",0.431622257053292,0.872793375075742,0.999965351960658,-1.07902951660124,3
+"101","Fe-S cluster biosynthesis_Metabolism > Metals<a0>and<a0>cofactors > Fe-S<a0>cluster<a0>biosynthesis",0.524889602569249,0.888148571712702,0.999999570898848,-0.964711123893471,7
+"102","Molybdenum cofactor synthesis and proteins_Metabolism > Metals<a0>and<a0>cofactors > Molybdenum<a0>cofactor<a0>synthesis<a0>and<a0>proteins",0.176261127596439,0.634985390594851,0.669657544979297,-1.21280724040892,1
+"103","NAD biosynthesis and metabolism_Metabolism > Metals<a0>and<a0>cofactors > NAD<a0>biosynthesis<a0>and<a0>metabolism",0.485142510612492,0.884548576045243,0.999997210864504,1.00951386812862,1
+"104","Tetrahydobiopterin synthesis_Metabolism > Metals<a0>and<a0>cofactors > Tetrahydobiopterin<a0>synthesis",1,1,0.999999999999997,0,NA
+"105","Fe-S-containing proteins_Metabolism > Metals<a0>and<a0>cofactors > Fe-S-containing<a0>proteins",0.0752357523575236,0.487445447737426,0.149023016830395,-1.44841219680922,15
+"106","Heme-containing proteins_Metabolism > Metals<a0>and<a0>cofactors > Heme-containing<a0>proteins",0.812067260138477,0.921540005473953,0.999999999998028,-0.786971675875892,1
+"107","Vitamin metabolism_Metabolism > Vitamin<a0>metabolism",0.000410004100041,0.047970479704797,0.000412166655114537,-1.9675302434079,15
+"108","Choline and betaine metabolism_Metabolism > Vitamin<a0>metabolism > Choline<a0>and<a0>betaine<a0>metabolism",1,1,0.999999999999997,0,NA
+"109","Biotin utilizing proteins_Metabolism > Vitamin<a0>metabolism > Biotin<a0>utilizing<a0>proteins",0.739438043258541,0.921540005473953,0.999999999966251,0.838422376171389,1
+"110","Vitamin A metabolism_Metabolism > Vitamin<a0>metabolism > Vitamin<a0>A<a0>metabolism",0.00254702194357367,0.106526739505463,0.00262003855934467,-1.53388019949542,3
+"111","Vitamin B1 metabolism_Metabolism > Vitamin<a0>metabolism > Vitamin<a0>B1<a0>metabolism",1,1,0.999999999999997,0,NA
+"112","Vitamin B2 metabolism_Metabolism > Vitamin<a0>metabolism > Vitamin<a0>B2<a0>metabolism",0.689465087790935,0.921540005473953,0.999999999733294,0.856360370769626,3
+"113","Vitamin B6 metabolism_Metabolism > Vitamin<a0>metabolism > Vitamin<a0>B6<a0>metabolism",0.828093099224173,0.921540005473953,0.999999999998918,0.694716639995107,3
+"114","Vitamin B12 metabolism_Metabolism > Vitamin<a0>metabolism > Vitamin<a0>B12<a0>metabolism",1,1,0.999999999999997,0,NA
+"115","Vitamin C metabolism_Metabolism > Vitamin<a0>metabolism > Vitamin<a0>C<a0>metabolism",0.66053412462908,0.921540005473953,0.999999999080428,-0.895952123644889,1
+"116","Vitamin D metabolism_Metabolism > Vitamin<a0>metabolism > Vitamin<a0>D<a0>metabolism",1,1,0.999999999999997,0,NA
+"117","Folate and 1-C metabolism_Metabolism > Vitamin<a0>metabolism > Folate<a0>and<a0>1-C<a0>metabolism",0.551020408163265,0.888148571712702,0.999999873252495,-0.952194624399515,5
+"118","Detoxification_Metabolism > Detoxification",0.00809464508094645,0.157845579078456,0.00878558752229699,-1.75613015539334,20
+"119","Xenobiotic metabolism_Metabolism > Detoxification > Xenobiotic<a0>metabolism",0.00784637621309106,0.157845579078456,0.00849635945062633,-1.74187563408213,18
+"120","ROS and glutathione metabolism_Metabolism > Detoxification > ROS<a0>and<a0>glutathione<a0>metabolism",0.718867550980004,0.921540005473953,0.999999999921835,-0.855437135602262,2
+"121","Amidoxime reducing complex_Metabolism > Detoxification > Amidoxime<a0>reducing<a0>complex",0.832112452979608,0.921540005473953,0.999999999999068,-0.742809878959845,2
+"122","Selenoproteins_Metabolism > Detoxification > Selenoproteins",1,1,0.999999999999997,0,NA
+"123","Electron carriers_Metabolism > Electron<a0>carriers",0.606191222570533,0.921540005473953,0.999999989854291,-0.931008338663318,3
+"124","Cytochromes_Metabolism > Electron<a0>carriers > Cytochromes",0.812067260138477,0.921540005473953,0.999999999998028,-0.786971675875892,1
+"125","Q-linked reactions, other_Metabolism > Electron<a0>carriers > Q-linked<a0>reactions,<a0>other",0.713720055434567,0.921540005473953,0.999999999903319,-0.860909584121484,2
+"126","Sulfur metabolism_Metabolism > Sulfur<a0>metabolism",0.680657295585033,0.921540005473953,0.999999999612445,-0.887737929301084,2
+"127","Small molecule transport_Small<a0>molecule<a0>transport",0.0714136997709765,0.487445447737426,0.136751679849366,-1.42853926857303,22
+"128","SLC25A family_Small<a0>molecule<a0>transport > SLC25A<a0>family",0.198679471788715,0.645708283313325,0.784049693227813,-1.27321418314133,5
+"129","ABC transporters_Small<a0>molecule<a0>transport > ABC<a0>transporters",0.0893141945773525,0.487445447737426,0.199934292007111,-1.42046977700322,6
+"130","Sideroflexins_Small<a0>molecule<a0>transport > Sideroflexins",1,1,0.999999999999997,0,NA
+"131","Calcium uniporter_Small<a0>molecule<a0>transport > Calcium<a0>uniporter",0.0696014277215943,0.487445447737426,0.13115482677579,-1.41515870703612,4
+"132","Signaling_Signaling",0.173755291271921,0.634985390594851,0.655565796312275,-1.30763394809421,8
+"133","Calcium homeostasis_Signaling > Calcium<a0>homeostasis",0.288277511961722,0.749521531100478,0.983963346595668,-1.1821416322429,6
+"134","Calcium cycle_Signaling > Calcium<a0>homeostasis > Calcium<a0>cycle",0.288277511961722,0.749521531100478,0.983963346595668,-1.1821416322429,6
+"135","Mitochondrial permeability transition pore_Signaling > Calcium<a0>homeostasis > Mitochondrial<a0>permeability<a0>transition<a0>pore",1,1,0.999999999999997,0,NA
+"136","EF hand proteins_Signaling > Calcium<a0>homeostasis > EF<a0>hand<a0>proteins",0.0190061373985349,0.277964759453574,0.0227857136219476,-1.39900052105219,2
+"137","Immune response_Signaling > Immune<a0>response",0.179098443501112,0.634985390594851,0.685351119054945,1.2139348715061,1
+"138","cAMP-PKA signaling_Signaling > cAMP-PKA<a0>signaling",1,1,0.999999999999997,0,NA
+"139","Mitochondrial dynamics and surveillance_Mitochondrial<a0>dynamics<a0>and<a0>surveillance",0.816306288434834,0.921540005473953,0.999999999998319,0.706981721453257,8
+"140","Fusion_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Fusion",1,1,0.999999999999997,0,NA
+"141","Fission_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Fission",0.733373761875884,0.921540005473953,0.99999999995684,0.843977294741429,1
+"142","Organelle contact sites_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Organelle<a0>contact<a0>sites",1,1,0.999999999999997,0,NA
+"143","Intramitochondrial membrane interactions_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Intramitochondrial<a0>membrane<a0>interactions",0.622050366845132,0.921540005473953,0.999999995013767,-0.903836090823703,4
+"144","Trafficking_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Trafficking",1,1,0.999999999999997,0,NA
+"145","Mitophagy_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Mitophagy",0.107539923185769,0.5032868405094,0.279680993949281,1.26269471228756,1
+"146","Autophagy_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Autophagy",0.107539923185769,0.5032868405094,0.279680993949281,1.26269471228756,1
+"147","Apoptosis_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Apoptosis",0.540092910523127,0.888148571712702,0.999999789243798,0.997709363401413,2
+"148","Cristae formation_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Cristae<a0>formation",1,1,0.999999999999997,0,NA
+"149","MICOS complex_Mitochondrial<a0>dynamics<a0>and<a0>surveillance > Cristae<a0>formation > MICOS<a0>complex",1,1,0.999999999999997,0,NA
