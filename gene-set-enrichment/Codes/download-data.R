@@ -4,7 +4,7 @@ setwd("./gene-set-enrichment")
 
 download_and_process_data <- function(accid) {
   message(accid)
-  path <- file.path("./NewAPI/data", accid)
+  path <- file.path("./data", accid)
   if (dir.exists(path)) return()
   
   dir.create(path)
@@ -50,7 +50,7 @@ for (accid in accessionIds) {
 }
 
 # Check datasets with multiple DE analysis files
-list_data <- list.dirs("./NewAPI/data")
+list_data <- list.dirs("./data")
 multi_de <- Filter(function(dir) {
   length(list.files(dir, pattern = "\\.rds$")) > 1
 }, list_data)
