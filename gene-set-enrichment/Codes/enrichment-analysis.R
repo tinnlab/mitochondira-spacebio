@@ -4,19 +4,19 @@ setwd("./gene-set-enrichment")
 # Load necessary libraries (add these at the beginning)
 library(tidyverse)
 library(fgsea)
-library(HarmonicMeanP)
 
 # Read comparisons data
-comparisons <- read.csv("./JosephRes/8Apr2024/comparisions2.csv", header = TRUE)
+comparisons <- read.csv("./MetadataFiles/MouseComparisions.csv", header = TRUE)
 
 # Process comparisons data
 comparisons <- comparisons %>%
   mutate(
-    Pval = sapply(comparison, function(comp) paste0("P.value", strsplit(comp, "Log2fc")[[1]][2])),
-    AdjPval = sapply(comparison, function(comp) paste0("Adj.p.value", strsplit(comp, "Log2fc")[[1]][2])),
-    firstSD = sapply(comparison, function(comp) paste0("Group.Stdev", strsplit(strsplit(comp, "Log2fc")[[1]][2], ".v.")[[1]][1], ".")),
-    secondSD = sapply(comparison, function(comp) paste0("Group.Stdev_.", strsplit(strsplit(comp, "Log2fc")[[1]][2], ".v.")[[1]][2])),
-    group = sapply(comparison, function(comp) strsplit(comp, "Log2fc_")[[1]][2])
+    Log2fc = sapply(comparisons$comparison, function(comp) paste0("Log2fc_", comp)),
+    Pval = sapply(comparisons$comparison, function(comp) paste0("P.value_", comp)),
+    AdjPval = sapply(comparisons$comparison, function(comp) paste0("Adj.p.value_", comp)),
+    firstSD = sapply(comparisons$comparison, function(comp) paste0("Group.Stdev_", strsplit(comp, "\\.v\\.")[[1]][1], ".")),
+    secondSD = sapply(comparisons$comparison, function(comp) paste0("Group.Stdev_.", strsplit(comp, "\\.v\\.")[[1]][2])),
+    group = comparisons$comparison
   )
 
 list.data <- unique(comparisons$dataset)
@@ -24,11 +24,11 @@ list.data <- unique(comparisons$dataset)
 # Load all data
 allData <- lapply(list.data, function(id) {
   message(id)
-  f <- list.files(paste0("./NewAPI/data/", id), pattern = ".rds$", full.names = TRUE)
+  f <- list.files(paste0("./data/", id), pattern = ".rds$", full.names = TRUE)
   if (file.exists(f)) {
     return(list(
       data = readRDS(f),
-      metadata = read.table(list.files(paste0("./NewAPI/data/", id), pattern = ".txt$", full.names = TRUE)[[1]], 
+      metadata = read.table(list.files(paste0("./data/", id), pattern = ".txt$", full.names = TRUE)[[1]], 
                             header = TRUE, sep = "\t", fill = NA)
     ))
   }
@@ -118,7 +118,7 @@ allRes <- lapply(statDat, function(data) {
         pval = ifelse(pval == 0, 1e-6, ifelse(pval == 1, 1 - 1e-6, pval))
       )
     
-    final_res$HMDPval <- pharmonicmeanp(final_res$pval, L = length(final_res$pval), lower.tail = TRUE)
+    #final_res$HMDPval <- pharmonicmeanp(final_res$pval, L = length(final_res$pval), lower.tail = TRUE)
     
     list(
       id = data$id,
