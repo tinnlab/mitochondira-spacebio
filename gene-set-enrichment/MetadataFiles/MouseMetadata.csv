@@ -1,74 +1,69 @@
-"dataset","comparision","summarized.name","tissue","strain","n.sample"
-"OSD-162",".FLT.v.GC.","OSD-162","eye","BALB/c",13
-"OSD-164",".Space.Flight...Liver.v.Ground.Control...Liver.","OSD-164-Liver","liver","C57BL/6NTac",6
-"OSD-164",".Space.Flight...Spleen.v.Ground.Control...Spleen.","OSD-164-Spleen","spleen","C57BL/6NTac",6
-"OSD-173",".FLT.v.GC.","OSD-173","liver","C57BL/6NCrl",4
-"OSD-194",".Space.Flight.v.Ground.Control.","OSD-194","retina","BALB/c",9
-"OSD-238",".Space.Flight...uG...JAXA.Chow..v.Ground.Control...1G...JAXA.Chow..","OSD-238","dorsal skin","C57BL/6J",6
-"OSD-238",".Space.Flight...uG...JAXA.Chow.with.FOS.v.Ground.Control...1G...JAXA.Chow.with.FOS.","OSD-238-FOS","dorsal skin","C57BL/6J",6
-"OSD-239",".Space.Flight...uG...JAXA.Chow..v.Ground.Control...1G...JAXA.Chow..","OSD-239","femoral skin","C57BL/6J",5
-"OSD-239",".Space.Flight...uG...JAXA.Chow.with.FOS.v.Ground.Control...1G...JAXA.Chow.with.FOS.","OSD-239-FOS","femoral skin","C57BL/6J",6
-"OSD-240",".Space.Flight.v.Ground.Control.","OSD-240","dorsal skin","BALB/c",20
-"OSD-241",".Space.Flight.v.Ground.Control.","OSD-241","femoral lateral skin","BALB/c",19
-"OSD-242",".FLT_C1.v.GC_C2.","OSD-242","liver","C57BL/6J",9
-"OSD-243",".Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.","OSD-243-Earth","dorsal skin","C57BL/6NTac",18
-"OSD-243",".Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.","OSD-243-ISS","dorsal skin","C57BL/6NTac",19
-"OSD-244",".Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.","OSD-244-Earth","thymus","C57BL/6NTac",18
-"OSD-244",".Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.","OSD-244-ISS","thymus","C57BL/6NTac",20
-"OSD-245",".Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.","OSD-245-Earth","liver","C57BL/6NTac",19
-"OSD-245",".Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.","OSD-245-ISS","liver","C57BL/6NTac",20
-"OSD-246",".Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.","OSD-246-Earth","spleen","C57BL/6NTac",17
-"OSD-246",".Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.","OSD-246-ISS","spleen","C57BL/6NTac",14
-"OSD-248",".Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.","OSD-248-Earth","left lung lobe","C57BL/6NTac",19
-"OSD-248",".Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.","OSD-248-ISS","left lung lobe","C57BL/6NTac",20
-"OSD-253",".Space.Flight...C3H.HeJ....25.v.Ground.Control...C3H.HeJ....25.","OSD-253-C3H-25","left kidney","C3H/HeJ",10
-"OSD-253",".Space.Flight...C3H.HeJ....75.v.Ground.Control...C3H.HeJ....75.","OSD-253-C3H-75","left kidney","C3H/HeJ",10
-"OSD-253",".Space.Flight...C57BL.6J....25.v.Ground.Control...C57BL.6J....25.","OSD-253-C57BL-25","left kidney","C57BL/6J",10
-"OSD-253",".Space.Flight...C57BL.6J....75.v.Ground.Control...C57BL.6J....75.","OSD-253-C57BL-75","left kidney","C57BL/6J",9
-"OSD-254",".Space.Flight...C3H.HeJ....25.v.Ground.Control...C3H.HeJ....25.","OSD-254-C3H-25","dorsal skin","C3H/HeJ",10
-"OSD-254",".Space.Flight...C3H.HeJ....75.v.Ground.Control...C3H.HeJ....75.","OSD-254-C3H-75","dorsal skin","C3H/HeJ",10
-"OSD-254",".Space.Flight...C57BL.6J....25.v.Ground.Control...C57BL.6J....25.","OSD-254-C57BL-25","dorsal skin","C57BL/6J",10
-"OSD-254",".Space.Flight...C57BL.6J....75.v.Ground.Control...C57BL.6J....75.","OSD-254-C57BL-75","dorsal skin","C57BL/6J",10
-"OSD-255",".Space.Flight.v.Ground.Control.","OSD-255","right retina","C57BL/6J",16
-"OSD-270",".Space.Flight...space.radiation.v.Ground.Control...non.irradiated.","OSD-270","heart","BALB/c",46
-"OSD-288",".Space.Flight...uG.v.Ground.Control...1G.","OSD-288","spleen","C57BL/6J",6
-"OSD-289",".MHU.1...Space.Flight...uG.v.MHU.1...Ground.Control...1G.","OSD-289-MHU1","thymus gland","C57BL/6J",6
-"OSD-289",".MHU.2...Space.Flight...uG.v.MHU.2...Ground.Control...1G.","OSD-289-MHU2","thymus gland","C57BL/6J",6
-"OSD-326",".Space.Flight.v.Ground.Control.","OSD-326","quadriceps femoris","C57BL/6J",8
-"OSD-379",".Space.Flight...22.to.23...On.ISS...Carcass.v.Ground.Control...24...On.ISS...Carcass.","OSD-379-ISS","liver","BALB/cAnNTac",40
-"OSD-379",".Space.Flight....40...On.Earth...Upon.euthanasia.v.Ground.Control....40...On.Earth...Upon.euthanasia.","OSD-379-Earth","liver","BALB/cAnNTac",22
-"OSD-401",".Space.Flight...Gastrocnemius.v.Ground.Control...Gastrocnemius.","OSD-401-Gastrocnemius","gastrocnemius","BALB/c",6
-"OSD-401",".Space.Flight...Quadriceps.femoris.v.Ground.Control...Quadriceps.femoris.","OSD-401-Quadriceps","quadriceps femoris","BALB/c",6
-"OSD-419",".Space.Flight.v.Ground.Control.","OSD-419","gastrocnemius right","C57BL/6J",12
-"OSD-420",".Space.Flight.v.Ground.Control.","OSD-420","spleen","C57BL/6J",20
-"OSD-421",".Space.Flight.v.Ground.Control.","OSD-421","thymus","C57BL/6J",20
-"OSD-576",".Space.Flight.v.Ground.Control.","OSD-576","right tibialis anterior","C57BL/6J",18
-"OSD-580",".Space.Flight...On.ISS...12.week.v.Ground.Control...On.ISS...12.week.","OSD-580-ISS-12","heart","C57BL/6NTac",10
-"OSD-580",".Space.Flight...On.ISS...29.week.v.Ground.Control...On.ISS...29.week.","OSD-580-ISS-29","heart","C57BL/6NTac",10
-"OSD-580",".Space.Flight...On.Earth...12.week.v.Ground.Control...On.Earth...12.week.","OSD-580-Earth-12","heart","C57BL/6NTac",10
-"OSD-580",".Space.Flight...On.Earth...29.week.v.Ground.Control...On.Earth...29.week.","OSD-580-Earth-29","heart","C57BL/6NTac",10
-"OSD-352",".Space.Flight.v.Ground.Control.","OSD-352","brain","BALB/c",14
-"OSD-98",".FLT.v.GC.","OSD-98","adrenal glands- both sides","C57BL/6J",19
-"OSD-99",".FLT.v.GC.","OSD-99","extensor digitorum longus- both sides","C57BL/6J",18
-"OSD-163",".FLT.v.GC.","OSD-163","left kidney","BALB/c",12
-"OSD-161",".FLT.v.GC.","OSD-161","adrenal gland","BALB/c",20
-"OSD-104",".FLT.v.GC.","OSD-104","soleus-both sides","C57BL/6J",12
-"OSD-102",".FLT.v.GC.","OSD-102","kidney-left","C57BL/6J",12
-"OSD-101",".FLT.v.GC.","OSD-101","gastrocnemius-left","C57BL/6J",12
-"OSD-100",".FLT.v.GC.","OSD-100","eye-left","C57BL/6J",12
-"OSD-137",".FLT.v.GC.","OSD-137","liver","C57BL/6J",12
-"OSD-47",".FLT.v.GC.","OSD-47","liver","C57BL/6Tac",6
-"OSD-48",".FLT_C.v.GC_C.","OSD-48-CC","liver","C57BL/6J",12
-"OSD-48",".FLT_C.v.GC_I.","OSD-48-CI","liver","C57BL/6J",8
-"OSD-48",".FLT_I.v.GC_C.","OSD-48-IC","liver","C57BL/6J",8
-"OSD-48",".FLT_I.v.GC_I.","OSD-48-II","liver","C57BL/6J",4
-"OSD-103",".FLT.v.GC.","OSD-103","quadriceps-left","C57BL/6J",12
-"OSD-105",".FLT.v.GC.","OSD-105","tibialis anterior-left","C57BL/6J",12
-"OSD-21",".Space.Flight.v.Ground.Control.","OSD-21","gastrocnemius","C57BL/6J",8
-"OSD-25",".Space.Flight.v.Ground.Control.","OSD-25","liver","C57BL/6CR",11
-"OSD-111",".Space.Flight...Extensor.digitorum.longus.v.Ground.Control...Extensor.digitorum.longus.","OSD-111-Extensor","extensor digitorum longus","C57/BL6",6
-"OSD-111",".Space.Flight...Soleus.v.Ground.Control...Soleus.","OSD-111-Soleus","soleus","C57/BL6",6
-"OSD-135",".Space.Flight...longissimus.dorsi.muscle.v.Ground.Control...longissimus.dorsi.muscle.","OSD-135-Longissimus","longissimus dorsi muscle","C57BL/6",10
-"OSD-135",".Space.Flight...tongue.muscle.v.Ground.Control...tongue.muscle.","OSD-135-Tongue","tongue muscle","C57BL/6",6
-"OSD-4",".Space.Flight.v.Ground.Control.","OSD-4","thymus","C57BL/6Tac",8
-"OSD-87",".Space.Flight.v.Ground.Control.","OSD-87","retina","C57BL/6CR",6
+dataset,comparision,summarized.name,tissue,strain,n.sample,,TISSUE,COMBINED NO STRAINS ,COMBINED WITH STRAINS 
+OSD-352,.Space.Flight.v.Ground.Control.,OSD-352,brain,BALB/c,14,1,Brain,OSD-352-ISS-12wk,OSD-352-ISS-BALB/c-12wk
+OSD-326,.Space.Flight.v.Ground.Control.,OSD-326,quadriceps femoris,C57BL/6J,8,2,Muscle (Q),OSD-326-ISS-9wk,OSD-326-ISS-C57BL/6J-9wk
+OSD-103,.FLT.v.GC.,OSD-103,quadriceps-left,C57BL/6J,12,3,Muscle (Q),OSD-103-ISS-16wk,OSD-103-ISS-C57BL/6J-16wk
+OSD-101,.FLT.v.GC.,OSD-101,gastrocnemius-left,C57BL/6J,12,4,Muscle  (G-L),OSD-101-ISS-16wk,OSD-101-ISS-C57BL/6J-16wk
+OSD-419,.Space.Flight.v.Ground.Control.,OSD-419,gastrocnemius right,C57BL/6J,12,5,Muscle (G-R),OSD-419-ISS-16wk,OSD-419-ISS-C57BL/6J-16wk
+OSD-105,.FLT.v.GC.,OSD-105,tibialis anterior-left,C57BL/6J,12,6,Muscle (TA),OSD-105-ISS-16wk,OSD-105-ISS-C57BL/6J-16wk
+OSD-99,.FLT.v.GC.,OSD-99,extensor digitorum longus- both sides,C57BL/6J,18,7,Muscle (EDL),OSD-99-ISS-16wk,OSD-99-ISS-C57BL/6J-16wk
+OSD-104,.FLT.v.GC.,OSD-104,soleus-both sides,C57BL/6J,12,8,Muscle (S),OSD-104-ISS-16wk,OSD-104-ISS-C57BL/6J-16wk
+OSD-401,.Space.Flight...Gastrocnemius.v.Ground.Control...Gastrocnemius.,OSD-401-Gastrocnemius,gastrocnemius,BALB/c,6,9,Muscle (Q),OSD-401-ISS-30wk,OSD-401-ISS-BALB/c-30wk
+OSD-401,.Space.Flight...Quadriceps.femoris.v.Ground.Control...Quadriceps.femoris.,OSD-401-Quadriceps,quadriceps femoris,BALB/c,6,10,Muscle (G),OSD-401-ISS-30wk,OSD-401-ISS-BALB/c-30wk
+OSD-21,.Space.Flight.v.Ground.Control.,OSD-21,gastrocnemius,C57BL/6J,8,11,Muscle (G),OSD-21-EARTH-9.3wk,OSD-21-EARTH-C57BL/6J-9.3wk
+OSD-576,.Space.Flight.v.Ground.Control.,OSD-576,right tibialis anterior,C57BL/6J,18,12,Muscle (TA),OSD-576-EARTH-16.5wk,OSD-576-EARTH-C57BL/6J-16.5wk
+OSD-111,.Space.Flight...Extensor.digitorum.longus.v.Ground.Control...Extensor.digitorum.longus.,OSD-111-Extensor,extensor digitorum longus,C57/BL6,6,13,Muscle (EDL),OSD-111-EARTH-19.5wk,OSD-111-EARTH-C57BL/6J-19.5wk
+OSD-111,.Space.Flight...Soleus.v.Ground.Control...Soleus.,OSD-111-Soleus,soleus,C57/BL6,6,14,Muscle (S),OSD-111-EARTH-19.5wk,OSD-111-EARTH-C57BL/6J-19.5wk
+OSD-135,.Space.Flight...longissimus.dorsi.muscle.v.Ground.Control...longissimus.dorsi.muscle.,OSD-135-Longissimus,longissimus dorsi muscle,C57BL/6,10,15, Muscle (LD),OSD-135-EARTH-19.5wk,OSD-135-EARTH-C57BL/6J-19.5wk
+OSD-135,.Space.Flight...tongue.muscle.v.Ground.Control...tongue.muscle.,OSD-135-Tongue,tongue muscle,C57BL/6,6,16,Muscle (Tongue),OSD-135-EARTH-19.5wk,OSD-135-EARTH-C57BL/6J-19.5wk
+OSD-100,.FLT.v.GC.,OSD-100,eye-left,C57BL/6J,12,17,Eye,OSD-100-ISS-16wk,OSD-100-ISS-C57BL/6J-16wk
+OSD-162,.FLT.v.GC.,OSD-162,eye,BALB/c,13,18,Eye,OSD-162-ISS-12wk,OSD-162-ISS-BALB/c-12wk
+OSD-194,.Space.Flight.v.Ground.Control.,OSD-194,retina,BALB/c,9,19,Retina,OSD-194-ISS-12wk,OSD-194-ISS-BALB/c-12wk
+OSD-87,.Space.Flight.v.Ground.Control.,OSD-87,retina,C57BL/6CR,6,20,Retina,OSD-87-EARTH-10wk,OSD-87-EARTH-C57BL/6J-10wk
+OSD-25,.Space.Flight.v.Ground.Control.,OSD-25,liver,C57BL/6CR,11,21,Retina,OSD-255-EARTH-10wk,OSD-255-EARTH-C57BL/6J-10wk
+OSD-254,.Space.Flight...C57BL.6J....25.v.Ground.Control...C57BL.6J....25.,OSD-254-C57BL-25,dorsal skin,C57BL/6J,10,22,Dorsal Skin,OSD-254-25ISS-11wk,OSD-254-25ISS-C57BL/6J-11wk
+OSD-254,.Space.Flight...C3H.HeJ....25.v.Ground.Control...C3H.HeJ....25.,OSD-254-C3H-25,dorsal skin,C3H/HeJ,10,23,Dorsal Skin,OSD-254-25ISS-11wk,OSD-254-25ISS-C3H/HeJ-11wk
+OSD-243,.Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.,OSD-243-ISS,dorsal skin,C57BL/6NTac,19,24,Dorsal Skin,OSD-243-ISS-36wk,OSD-243-ISS-C57BL/6J-36wk
+OSD-254,.Space.Flight...C57BL.6J....75.v.Ground.Control...C57BL.6J....75.,OSD-254-C57BL-75,dorsal skin,C57BL/6J,10,25,Dorsal Skin,OSD-254-75ISS-11wk,OSD-254-75ISS-C57BL/6J-11wk
+OSD-254,.Space.Flight...C3H.HeJ....75.v.Ground.Control...C3H.HeJ....75.,OSD-254-C3H-75,dorsal skin,C3H/HeJ,10,26,Dorsal Skin,OSD-254-75ISS-11wk,OSD-254-75ISS-C3H/HeJ-11wk
+OSD-238,.Space.Flight...uG...JAXA.Chow..v.Ground.Control...1G...JAXA.Chow..,OSD-238,dorsal skin,C57BL/6J,6,27,Dorsal Skin,OSD-238-EARTH-17wk,OSD-238-EARTH-C57BL/6J-17wk
+OSD-239,.Space.Flight...uG...JAXA.Chow..v.Ground.Control...1G...JAXA.Chow..,OSD-239,femoral skin,C57BL/6J,5,28,Dorsal Skin,OSD-239-EARTH-17wk,OSD-239-EARTH-C57BL/6J-17wk
+OSD-243,.Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.,OSD-243-Earth,dorsal skin,C57BL/6NTac,18,29,Dorsal Skin,OSD-243-EARTH-36wk,OSD-243-EARTH-C57BL/6J-36wk
+OSD-240,.Space.Flight.v.Ground.Control.,OSD-240,dorsal skin,BALB/c,20,30,Dorsal Skin,OSD-240-EARTH-30wk,OSD-240-EARTH-BALB/c-30wk
+OSD-241,.Space.Flight.v.Ground.Control.,OSD-241,femoral lateral skin,BALB/c,19,31,Femoral Skin,OSD-241-EARTH-30wk,OSD-241-EARTH-BALB/c-30wk
+OSD-253,.Space.Flight...C57BL.6J....25.v.Ground.Control...C57BL.6J....25.,OSD-253-C57BL-25,left kidney,C57BL/6J,10,32,Kidney,OSD-253-25ISS-11wk,OSD-253-25ISS-C57BL/6J-11wk
+OSD-253,.Space.Flight...C3H.HeJ....25.v.Ground.Control...C3H.HeJ....25.,OSD-253-C3H-25,left kidney,C3H/HeJ,10,33,Kidney,OSD-253-25ISS-11wk,OSD-253-25ISS-C3H/HeJ-11wk
+OSD-102,.FLT.v.GC.,OSD-102,kidney-left,C57BL/6J,12,34,Kidney,OSD-102-ISS-16wk,OSD-102-ISS-C57BL/6J-16wk
+OSD-163,.FLT.v.GC.,OSD-163,left kidney,BALB/c,12,35,Kidney,OSD-163-ISS-12wk,OSD-163-ISS-BALB/c-12wk
+OSD-253,.Space.Flight...C57BL.6J....75.v.Ground.Control...C57BL.6J....75.,OSD-253-C57BL-75,left kidney,C57BL/6J,9,36,Kidney,OSD-253-75ISS-11wk,OSD-253-75ISS-C57BL/6J-11wk
+OSD-253,.Space.Flight...C3H.HeJ....75.v.Ground.Control...C3H.HeJ....75.,OSD-253-C3H-75,left kidney,C3H/HeJ,10,37,Kidney,OSD-253-75ISS-11wk,OSD-253-75ISS-C3H/HeJ-11wk
+OSD-98,.FLT.v.GC.,OSD-98,adrenal glands- both sides,C57BL/6J,19,38,Adrenal Gland,OSD-98-ISS-16wk,OSD-98-ISS-C57BL/6J-16wk
+OSD-161,.FLT.v.GC.,OSD-161,adrenal gland,BALB/c,20,39,Adrenal Gland,OSD-161-ISS-12wk,OSD-161-ISS-BALB/c-12wk
+OSD-270,.Space.Flight...space.radiation.v.Ground.Control...non.irradiated.,OSD-270,heart,BALB/c,46,40,Heart,OSD-270-ISS-12wk,OSD-270-ISS-BALB/c-12wk
+OSD-580,.Space.Flight...On.Earth...12.week.v.Ground.Control...On.Earth...12.week.,OSD-580-Earth-12,heart,C57BL/6NTac,10,41,Heart,OSD-580-ISS-12wk,OSD-580-ISS-C57BL/6J-12wk
+OSD-580,.Space.Flight...On.Earth...29.week.v.Ground.Control...On.Earth...29.week.,OSD-580-Earth-29,heart,C57BL/6NTac,10,42,Heart,OSD-580-ISS-29wk,OSD-580-ISS-C57BL/6J-29wk
+OSD-580,.Space.Flight...On.ISS...12.week.v.Ground.Control...On.ISS...12.week.,OSD-580-ISS-12,heart,C57BL/6NTac,10,43,Heart,OSD-580-EARTH-12wk,OSD-580-EARTH-C57BL/6J-12wk
+OSD-580,.Space.Flight...On.ISS...29.week.v.Ground.Control...On.ISS...29.week.,OSD-580-ISS-29,heart,C57BL/6NTac,10,44,Heart,OSD-580-EARTH-29wk,OSD-580-EARTH-C57BL/6J-29wk
+OSD-47,.FLT.v.GC.,OSD-47,liver,C57BL/6Tac,6,45,Liver,OSD-47-ISS-32wk,OSD-47-ISS-C57BL/6J-32wk
+OSD-164,.Space.Flight...Liver.v.Ground.Control...Liver.,OSD-164-Liver,liver,C57BL/6NTac,6,46,Liver,OSD-164-ISS-32wk,OSD-164-ISS-C57BL/6J-32wk
+OSD-379,.Space.Flight....40...On.Earth...Upon.euthanasia.v.Ground.Control....40...On.Earth...Upon.euthanasia.,OSD-379-Earth,liver,BALB/cAnNTac,22,47,Liver,OSD-379-ISS-11wk,OSD-379-ISS-BALB/c-11wk
+OSD-48,.FLT_C.v.GC_C.,OSD-48-CC,liver,C57BL/6J,12,48,Liver,OSD-48-ISS-16wk,OSD-48-ISS-C57BL/6J-16wk
+OSD-137,.FLT.v.GC.,OSD-137,liver,C57BL/6J,12,49,Liver,OSD-137-ISS-12wk,OSD-137-ISS-BALB/c-12wk
+OSD-245,.Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.,OSD-245-ISS,liver,C57BL/6NTac,20,50,Liver,OSD-245-ISS-36wk,OSD-245-ISS-C57BL/6J-36wk
+OSD-173,.FLT.v.GC.,OSD-173,liver,C57BL/6NCrl,4,51,Liver,OSD-173-EARTH-9wk,OSD-173-EARTH-C57BL/6J-9wk
+OSD-255,.Space.Flight.v.Ground.Control.,OSD-255,right retina,C57BL/6J,16,52,Liver,OSD-25-EARTH-9wk,OSD-25-EARTH-C57BL/6J-9wk
+OSD-242,.FLT_C1.v.GC_C2.,OSD-242,liver,C57BL/6J,9,53,Liver,OSD-242-EARTH-10wk,OSD-242-EARTH-C57BL/6J-10wk
+OSD-245,.Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.,OSD-245-Earth,liver,C57BL/6NTac,19,54,Liver,OSD-245-EARTH-10wk,OSD-245-EARTH-C57BL/6J-10wk
+OSD-379,.Space.Flight...22.to.23...On.ISS...Carcass.v.Ground.Control...24...On.ISS...Carcass.,OSD-379-ISS,liver,BALB/cAnNTac,40,55,Liver,OSD-379-EARTH-32wk,OSD-379-EARTH-BALB/c-32wk
+OSD-248,.Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.,OSD-248-ISS,left lung lobe,C57BL/6NTac,20,56,Lung ,OSD-248-ISS-36wk,OSD-248-ISS-C57BL/6J-36wk
+OSD-248,.Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.,OSD-248-Earth,left lung lobe,C57BL/6NTac,19,57,Lung ,OSD-248-EARTH-36wk,OSD-248-EARTH-C57BL/6J-36wk
+OSD-164,.Space.Flight...Spleen.v.Ground.Control...Spleen.,OSD-164-Spleen,spleen,C57BL/6NTac,6,58,Spleen,OSD-164-ISS-32wk,OSD-164-ISS-C57BL/6J-32wk
+OSD-246,.Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.,OSD-246-ISS,spleen,C57BL/6NTac,14,59,Spleen,OSD-246-ISS-36wk,OSD-246-ISS-C57BL/6J-36wk
+OSD-288,.Space.Flight...uG.v.Ground.Control...1G.,OSD-288,spleen,C57BL/6J,6,60,Spleen,OSD-288-EARTH-8wk,OSD-288-EARTH-C57BL/6J-8wk
+OSD-246,.Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.,OSD-246-Earth,spleen,C57BL/6NTac,17,61,Spleen,OSD-246-EARTH-36wk,OSD-246-EARTH-C57BL/6J-36wk
+OSD-420,.Space.Flight.v.Ground.Control.,OSD-420,spleen,C57BL/6J,20,62,Spleen,OSD-420-EARTH-10wk,OSD-420-EARTH-C57BL/6J-10wk
+OSD-421,.Space.Flight.v.Ground.Control.,OSD-421,thymus,C57BL/6J,20,63,Thymus,OSD-421-EARTH-10wk,OSD-421-EARTH-C57BL/6J-10wk
+OSD-289,.MHU.1...Space.Flight...uG.v.MHU.1...Ground.Control...1G.,OSD-289-MHU1,thymus gland,C57BL/6J,6,64,Thymus,OSD-289-EARTH-8wk-MHU1,OSD-289-EARTH-C57BL/6J-8wk-MHU1
+OSD-289,.MHU.2...Space.Flight...uG.v.MHU.2...Ground.Control...1G.,OSD-289-MHU2,thymus gland,C57BL/6J,6,65,Thymus,OSD-289-EARTH-8wk-MHU2,OSD-289-EARTH-C57BL/6J-8wk-MHU2
+OSD-244,.Space.Flight....30...On.Earth...Upon.euthanasia.v.Ground.Control....30...On.Earth...Upon.euthanasia.,OSD-244-Earth,thymus,C57BL/6NTac,18,66,Thymus,OSD-244-EARTH-36wk,OSD-244-EARTH-C57BL/6J-36wk
+OSD-244,.Space.Flight....60...On.ISS...Carcass.v.Ground.Control....60...On.Earth...Carcass.,OSD-244-ISS,thymus,C57BL/6NTac,20,67,Thymus,OSD-244-ISS-36wk,OSD-244-ISS-C57BL/6J-36wk
+OSD-4,.Space.Flight.v.Ground.Control.,OSD-4,thymus,C57BL/6Tac,8,68,Thymus,OSD-4-EARTH-8wk,OSD-4-EARTH-C57BL/6J-8wk

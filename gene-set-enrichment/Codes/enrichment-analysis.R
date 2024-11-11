@@ -4,6 +4,7 @@ setwd("./gene-set-enrichment")
 # Load necessary libraries (add these at the beginning)
 library(tidyverse)
 library(fgsea)
+library(dplyr)
 
 # Read comparisons data
 comparisons <- read.csv("./MetadataFiles/MouseComparisions.csv", header = TRUE)
@@ -70,11 +71,11 @@ statDat <- lapply(names(allData), function(d) {
     message(rnum)
     cur_row <- cols_to_extract[rnum,]
     
-    if(any(sapply(c(cur_row$comparison, cur_row$Pval, cur_row$AdjPval), function(x) length(data[[x]]) == 0))) return(NULL)
+    if(any(sapply(c(cur_row$Log2fc, cur_row$Pval, cur_row$AdjPval), function(x) length(data[[x]]) == 0))) return(NULL)
     
-    data <- data.frame(
+    data_res <- data.frame(
       SYMBOL = str_to_upper(data$SYMBOL),
-      log2FC = data[[cur_row$comparison]],
+      log2FC = data[[cur_row$Log2fc]],
       pVal = data[[cur_row$Pval]],
       pAdj = data[[cur_row$AdjPval]],
       sdSF = data[[cur_row$firstSD]],
@@ -84,8 +85,8 @@ statDat <- lapply(names(allData), function(d) {
     
     list(
       id = d,
-      name = strsplit(cur_row$comparison, "Log2fc_")[[1]][2],
-      data = data
+      name = cur_row$comparison,
+      data = data_res
     )
   })
 }) %>% unlist(recursive = FALSE)
