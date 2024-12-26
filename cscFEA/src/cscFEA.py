@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: wnchang@iu.edu
-"""
-
 # system lib
 import argparse
 import time
